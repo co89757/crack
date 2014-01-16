@@ -19,7 +19,7 @@ for example:
 */
 
 //subroutine: reverse a cstring 
-void reverseString(char* s , int len) //len is string size, incl. \0 
+void reverseString(char* s , int len) //len is string size, not incl. \0
 {
 	for (int i = 0; i < len/2; ++i)
 	{
