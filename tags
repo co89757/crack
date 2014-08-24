@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Heap	heap.cpp	/^Heap::Heap() {} $/;"	f	class:Heap
+Heap	heap.cpp	/^class Heap$/;"	c	file:
+compressStr	strcompress.cpp	/^string compressStr(string & s)$/;"	f
+countDigits	strcompress.cpp	/^int countDigits(int x)$/;"	f
+deletemin	heap.cpp	/^int Heap::deletemin(){$/;"	f	class:Heap
+downheap	heap.cpp	/^void Heap::downheap(int index) $/;"	f	class:Heap
+findLIS	lis.cpp	/^void findLIS(const vector<int> & A)$/;"	f
+findX	hill.cpp	/^int findX(const vector<int> & v)$/;"	f
+heap	heap.cpp	/^	std::vector<int> heap;$/;"	m	class:Heap	file:
+insert	heap.cpp	/^void Heap::insert(int element){$/;"	f	class:Heap
+isUniqueChar	isuniquechar.cpp	/^bool isUniqueChar(char *str){$/;"	f
+left	heap.cpp	/^int Heap::left(int parent){$/;"	f	class:Heap
+main	heap.cpp	/^int main(int argc, char **argv){$/;"	f
+main	hill.cpp	/^int main(int argc, char **argv){$/;"	f
+main	isuniquechar.cpp	/^int main(){$/;"	f
+main	lis.cpp	/^int main(int argc, char **argv){$/;"	f
+main	rev_sentence.cpp	/^int main(int argc, char **argv){$/;"	f
+main	str_rev.cpp	/^int main(){$/;"	f
+main	strcompress.cpp	/^int main(int argc, char const *argv[])$/;"	f
+parent	heap.cpp	/^int Heap::parent(int child){$/;"	f	class:Heap
+print	heap.cpp	/^void Heap::print(){$/;"	f	class:Heap
+printVec	lis.cpp	/^inline void printVec(const vector<int> & v)$/;"	f
+reverse	str_rev.cpp	/^void reverse(char *str){$/;"	f
+reverseSen	rev_sentence.cpp	/^void reverseSen(char *s)$/;"	f
+reverseString	rev_sentence.cpp	/^void reverseString(char* s , int len) \/\/len is string size, not incl. \\0$/;"	f
+right	heap.cpp	/^int Heap::right(int parent){$/;"	f	class:Heap
+size	heap.cpp	/^	int size() {return heap.size();}  $/;"	f	class:Heap
+sizeCompressed	strcompress.cpp	/^int sizeCompressed(string s)$/;"	f
+upheap	heap.cpp	/^void Heap::upheap(int index)$/;"	f	class:Heap
+~Heap	heap.cpp	/^Heap::~Heap() {}$/;"	f	class:Heap
